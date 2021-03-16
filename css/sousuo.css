@@ -1,9 +1,9 @@
 #search {
-	width: 717px;
+	width: 800px;
 	margin: 56px auto 14px;
 	position: absolute;
 	z-index: 99;
-	top: 40%;
+	top: 20%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
