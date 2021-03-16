@@ -3,7 +3,7 @@
 	margin: 56px auto 14px;
 	position: absolute;
 	z-index: 99;
-	top: 20%;
+	top: 30%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
